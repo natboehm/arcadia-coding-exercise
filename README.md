@@ -1,4 +1,4 @@
-## Arcadia Coding Exercise
+# Arcadia Coding Exercise
 
 I implemented the beginnings of the blogging Library in Rust. The library compiles,
 however I did not have the time to complete much functionality or a main function
