@@ -1,4 +1,4 @@
-##Arcadia Coding Exercise
+## Arcadia Coding Exercise
 
 I implemented the beginnings of the blogging Library in Rust. The library compiles,
 however I did not have the time to complete much functionality or a main function
@@ -6,9 +6,9 @@ to demonstrate functionality.
 
 Rust version: 1.19
 
-To compile: `Cargo Build`
+To compile: `cargo build`
 
-To run: `Cargo run`
+To run: `cargo run`
 
 (Running will only print 'hello world')
 
@@ -29,5 +29,5 @@ body, or labels, we would have had to search for the old and replace it with
 the new.
 
 Unit tests would have been written at the bottom of `src/lib.rs`. These would
-have tested each function, ideally each function returning something to check
+have tested each function, ideally each function returning a value to check
 against.
